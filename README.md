@@ -19,7 +19,7 @@ user's current region (When the user first loads the 'Around You' page it displa
 
 [React](https://reactjs.org/) - React was used to create the frontend of the website
 
-[Redux](https://redux.js.org/) - Redux was used to manage the states of the variables
+[Redux](https://redux.js.org/) - Redux was used to manage the states of the variables and call API endpoints to get the song data from Shazam API.
 
 [Netlify](https://www.netlify.com/)- Netlify was used to deploy the platform as a website in the web.
 
